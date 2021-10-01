@@ -5,6 +5,7 @@
 * Spring
 #### Dependencies
 
+- Spring boot web
 - Spring boot Starter Data Jpa
 - Spring boot starter validation
 - Spring boot devtools
